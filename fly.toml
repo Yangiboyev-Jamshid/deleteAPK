@@ -3,7 +3,7 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'auto-delete-apk-bot'
+app = 'bot'
 primary_region = 'iad'
 
 [build]
